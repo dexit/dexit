@@ -1,5 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ...a secret idea
+- 🌱 I’m currently learning ... MERN / Modern Web Dev @ Birmingham Uni
 
+![](https://hit.yhype.me/github/profile?user_id=6205151)
 <!--
 **dexit/dexit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
