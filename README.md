@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm dexit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+Adzuna & Reed.Co.Uk Jobs: [https://jobs.pathwayskillszone.ac.uk/] or [https://pgjobs.vercel.app/]
+CV-Library feed scraper : [https://v0-cvlibrary.vercel.app/]
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexit&label=Profile%20views&color=0e75b6&style=flat" alt="dexit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dexit" alt="dexit" /></a> </p>
