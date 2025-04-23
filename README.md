@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dexit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Latvia / UK </h3>
 
 ## Adzuna & Reed.Co.Uk Jobs:
 [https://jobs.pathwayskillszone.ac.uk/] 
