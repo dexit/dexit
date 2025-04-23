@@ -14,7 +14,7 @@ https://f5fostercheck.vercel.app/
 
 ## F5 Foster Care allowance Calculator:
 https://f5fostercheck.vercel.app/
-
+<p align="left">
 ## F5 Foster Care allowance Calculator No.2:
 https://v0-new-calculator-peach.vercel.app/
 
@@ -30,9 +30,15 @@ https://json-transformation-studio.lovable.app/
 ## WP Code Generator - Plugin/Admin 
 https://v0-gen.vercel.app/
 
+## Dev Dificulty assesment tool:
+https://tech-helper-56.lovable.app/
+
+## Bill generator
+https://b-171469-47.lovable.app/
+
 ## WP Code Generator as Flow Builder
 https://v0-anothercode.vercel.app/
-<p align="left">
+
 ## Basic ETL data object mapping
 https://v0-etl-mapping-template-5x.vercel.app/
 </p>
